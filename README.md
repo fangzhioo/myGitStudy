@@ -19,4 +19,10 @@
  当然，git能做的事情远远不止这些，当然也有一些骚操作了，这个妹子的回答就很厉害。
 * [怎样使用GitHub？](https://www.zhihu.com/question/20070065/answer/79557687)
 
+## 安装git
+ Git 是一个版本控制系统，也可以理解成是一个工具，跟 Java 类似，使用之前必须得先下载安装，所以第一步必须要安装。
+- Mac：[git-osx-installer download](git-osx-installer download)
+- Windows：[Git for Windows](Git for Windows)
+- Linux：Debian系列：apt-get install git
+        Fedora上：yum install git-core
 
