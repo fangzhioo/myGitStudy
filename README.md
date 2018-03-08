@@ -26,3 +26,7 @@
 - Linux：Debian系列：apt-get install git
         Fedora上：yum install git-core
 
+## git的常用指令
+
+![git的常用指令](https://files.jb51.net/file_images/article/201409/git_big_jb51.jpg)
+
